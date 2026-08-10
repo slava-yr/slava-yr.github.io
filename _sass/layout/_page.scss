@@ -73,14 +73,36 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    position: relative;
+    color: var(--global-link-color);
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 0;
+      height: 1px;
+      background-color: var(--global-link-color-hover);
+      transition: width 0.2s ease-in-out;
+    }
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      color: var(--global-link-color-hover);
+
+      &::after {
+        width: 100%;
+      }
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
+    }
+
+    &:visited {
+      color: var(--global-link-color-visited);
     }
   }
 

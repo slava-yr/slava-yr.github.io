@@ -8,7 +8,6 @@ date: 2026-11-01
 venue: "WAIMLAP 2026 — Workshop on Artificial Intelligence and Machine Learning Applications"
 venueurl: "https://waimlap.org"
 paperurl: "/files/WAIMLAP_Solar_Forecasting_Galapagos.pdf"
-citation: "Yabar Reaño, S. (2026). &quot;XGBoost-based Solar Forecasting for the Galapagos Islands.&quot; <i>WAIMLAP 2026</i>."
 ---
 
 ## Abstract

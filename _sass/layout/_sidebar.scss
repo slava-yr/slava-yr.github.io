@@ -156,10 +156,15 @@
   img {
     max-width: 175px;
     border-radius: 50%;
+    transition: $global-transition;
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid var(--global-border-color);
+    }
+
+    &:hover {
+      box-shadow: 0 0 20px rgba(124, 111, 255, 0.5), 0 0 40px rgba(124, 111, 255, 0.2);
     }
   }
 }
