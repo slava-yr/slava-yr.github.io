@@ -25,7 +25,7 @@ Our team actually came together by chance: our flight got stuck in Guayaquil on 
 
 ## Pitching in English for the first time
 
-The part I'll remember most wasn't the model — it was standing up to pitch in English, for the first time, in front of an international audience drawn from across Latin America and beyond. Explaining the problem, the approach, and why it mattered under time pressure, in a second language, to a room of researchers and peers, was well outside my comfort zone. Placing 2nd made it click that the nerves were worth it.
+The part I'll remember most wasn't the model, it was standing up to pitch in English, for the first time, in front of an international audience drawn from across Latin America and beyond. Explaining the problem, the approach, and why it mattered under time pressure, in a second language, to a room of researchers and peers, was well outside my comfort zone. Placing 2nd made it all worth it.
 
 <figure>
   <img src="/images/portfolio/galapagos/speaker.jpeg" alt="Pitching GalapagOS at the SALA '26 hackathon">
@@ -39,7 +39,7 @@ The part I'll remember most wasn't the model — it was standing up to pitch in 
 
 ## Where it led
 
-The idea we prototyped here became the seed for a full study on short-term solar forecasting for the Galapagos Islands, later written up as a WAIMLAP 2026 paper.
+The idea we prototyped here became the seed for a full study on short-term solar forecasting for the Galapagos Islands, later written up as a paper.
 
 ## Links
 
