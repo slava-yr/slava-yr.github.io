@@ -8,6 +8,12 @@ date: 2026-02-24
 venue: "ICAIIC 2026 — 8th International Conference on Artificial Intelligence in Information and Communication"
 venueurl: "https://icaiic.org"
 paperurl: "/files/ICAIIC_Embedded_Deployment_of_a_Neural_Network_Based_MPPT_Algorithm_on_a_Low_Cost_Microcontroller.pdf"
+tags:
+  - Neural Networks
+  - Embedded Systems
+  - TinyML
+  - Solar Energy
+  - MPPT
 ---
 
 ## Abstract

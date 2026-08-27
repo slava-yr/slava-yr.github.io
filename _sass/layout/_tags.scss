@@ -1,0 +1,84 @@
+/* ==========================================================================
+   TAGS & PUBLICATION FILTER
+   ========================================================================== */
+
+/* Tag chips shown on each publication/portfolio item */
+.archive__item-tags {
+  margin: 0.5em 0 0;
+  line-height: 2;
+}
+
+.tag-chip {
+  display: inline-block;
+  margin: 0 0.35em 0.35em 0;
+  padding: 0.15em 0.7em;
+  font-size: $type-size-7;
+  font-weight: 600;
+  line-height: 1.6;
+  color: var(--global-text-color-light);
+  background-color: var(--global-bg-color, transparent);
+  border: 1px solid var(--global-border-color);
+  border-radius: 1em;
+  white-space: nowrap;
+}
+
+/* Filter bar on the publications page */
+.pub-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25em;
+  margin: 1em 0 1.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.pub-filter__label {
+  margin-right: 0.5em;
+  font-size: $type-size-6;
+  font-weight: 700;
+  color: var(--global-text-color-light);
+}
+
+/* Clickable filter variant of the chip */
+.tag-chip--filter {
+  cursor: pointer;
+  transition: color 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
+
+  &:hover {
+    color: var(--global-text-color);
+    border-color: var(--global-link-color);
+  }
+
+  &.is-active {
+    color: #fff;
+    background-color: var(--global-link-color);
+    border-color: var(--global-link-color);
+  }
+}
+
+/* ==========================================================================
+   "LET'S COLLABORATE" CTA
+   ========================================================================== */
+
+.collab-cta {
+  margin: 2.5em 0 1em;
+  padding: 1.5em 1.75em;
+  background-color: var(--global-code-background-color);
+  border: 1px solid var(--global-border-color);
+  border-radius: 0.5em;
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+  }
+
+  p {
+    margin-bottom: 1em;
+    color: var(--global-text-color-light);
+  }
+
+  .btn {
+    margin-bottom: 0;
+  }
+}

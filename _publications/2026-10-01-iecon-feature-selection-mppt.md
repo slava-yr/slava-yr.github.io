@@ -8,6 +8,11 @@ date: 2026-10-01
 venue: "IECON 2026 — IEEE Industrial Electronics Conference"
 venueurl: "https://www.iecon2026.org"
 paperurl: "/files/IECON_Feature_Selection_for_Data_Driven_Solar_Photovoltaic_Maximum_Power_Point_Tracking.pdf"
+tags:
+  - Machine Learning
+  - Solar Energy
+  - MPPT
+  - Feature Selection
 ---
 
 ## Abstract

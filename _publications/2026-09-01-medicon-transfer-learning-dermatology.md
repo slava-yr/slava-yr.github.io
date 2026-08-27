@@ -8,6 +8,11 @@ date: 2026-09-01
 venue: "MEDICON 2026 — Mediterranean Conference on Medical and Biological Engineering and Computing"
 venueurl: "https://medicon2026.unisi.it"
 paperurl: "/files/FINAL_Medicon.pdf"
+tags:
+  - Deep Learning
+  - Transfer Learning
+  - Medical Imaging
+  - Computer Vision
 ---
 
 ## Abstract

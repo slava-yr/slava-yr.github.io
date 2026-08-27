@@ -8,6 +8,11 @@ date: 2026-11-01
 venue: "WAIMLAP 2026 — Workshop on Artificial Intelligence and Machine Learning Applications"
 venueurl: "https://waimlap.org"
 paperurl: "/files/WAIMLAP_Solar_Forecasting_Galapagos.pdf"
+tags:
+  - Machine Learning
+  - Solar Energy
+  - Forecasting
+  - XGBoost
 ---
 
 ## Abstract
