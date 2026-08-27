@@ -23,3 +23,11 @@ Renewable energy, particularly solar photovoltaics, presents a growing, sustaina
 🔗 [View on IEEE Xplore](https://ieeexplore.ieee.org/document/11454427)
 
 🔖 DOI: [10.1109/ICAIIC68212.2026.11454427](https://doi.org/10.1109/ICAIIC68212.2026.11454427)
+
+## Recommended Citation
+
+S. Yabar and C. Paragua-Macuri, "Edge AI for Solar: Embedded Deployment of Neural Network MPPT on Low-Cost Microcontrollers," 2026 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Tokyo, Japan, 2026, pp. 198-203, doi: 10.1109/ICAIIC68212.2026.11454427.
+
+---
+
+*© 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.*

@@ -19,3 +19,7 @@ This paper presents a feature selection methodology for data-driven maximum powe
 **Status:** ✅ Accepted
 
 📄 [Download preprint](/files/IECON_Feature_Selection_for_Data_Driven_Solar_Photovoltaic_Maximum_Power_Point_Tracking.pdf)
+
+---
+
+*© 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.*
