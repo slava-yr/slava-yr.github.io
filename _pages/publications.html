@@ -67,11 +67,11 @@ author_profile: true
         item.style.display = '';
         return;
       }
-      var tags = (item.getAttribute('data-tags') || '').split(' ');
+      var tags = (item.getAttribute('data-tags') || '').split(',');
       item.style.display = tags.indexOf(filter) !== -1 ? '' : 'none';
     });
 
-    // Hide category headings (<h2> + following <hr>) that have no visible items.
+    /* Hide category headings (<h2> + following <hr>) that have no visible items. */
     var headings = document.querySelectorAll('.pub-category-heading');
     headings.forEach(function (h2) {
       var hr = h2.nextElementSibling && h2.nextElementSibling.tagName === 'HR'
