@@ -34,9 +34,13 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
+/* P3R seaside-cyan secondary accent */
+$accent-color               : #3fc9d6;
+
 /* Dark theme for the site */
 html[data-theme="dark"] {
   --global-base-color                 : #{$primary-color};
+  --global-accent-color               : #{$accent-color};
   --global-bg-color                   : #{$background};
   --global-footer-bg-color            : #{$footer};
   --global-border-color               : #{$border};
