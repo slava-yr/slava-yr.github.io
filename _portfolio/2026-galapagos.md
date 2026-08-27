@@ -8,7 +8,6 @@ award: "2nd place — SALA '26 Hackathon"
 organizer: "SALA — Summit of AI in LatAm (formerly RIIAA)"
 header:
   teaser: "/images/portfolio/galapagos/speaker.jpeg"
-link: "https://lasala.ai"
 tags:
   - Hackathon
   - AI

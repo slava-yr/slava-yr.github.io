@@ -7,7 +7,6 @@ date: 2026-02-01
 # organizer: "TODO: organizer name"
 header:
   teaser: "/images/portfolio/pv-dataset/pv_lab_a.jpg"
-link: "https://ieee-dataport.org/documents/comprehensive-multi-technology-pv-operational-and-environmental-characterization-dataset"
 tags:
   - Solar Energy
   - Dataset
