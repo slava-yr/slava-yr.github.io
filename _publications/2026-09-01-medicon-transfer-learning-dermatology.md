@@ -12,7 +12,7 @@ paperurl: "/files/FINAL_Medicon.pdf"
 
 ## Abstract
 
-This work proposes a multi-source transfer learning framework for classifying facial pigmented lesions in data-limited Latin American dermatology contexts. By leveraging pretrained representations from diverse source domains, the method improves classification performance where labeled clinical data is scarce — a common challenge in underrepresented populations.
+This work proposes a multi-source transfer learning framework for classifying facial pigmented lesions in data-limited Latin American dermatology contexts. By leveraging pretrained representations from diverse source domains, the method improves classification performance where labeled clinical data is scarce, a common challenge in underrepresented populations.
 
 **Keywords:** transfer learning, dermatology, pigmented lesions, data-limited settings, Latin America, deep learning
 
