@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2026-02-24-icaiic-embedded-mppt-microcontroller
 excerpt: "Embedded implementation of a neural network based MPPT algorithm deployed on a low-cost microcontroller for real-time solar PV tracking."
-date: 2026-02-24
+date: 2026-02
 venue: "ICAIIC 2026 — 8th International Conference on Artificial Intelligence in Information and Communication"
 venueurl: "https://icaiic.org"
 paperurl: "/files/ICAIIC_Embedded_Deployment_of_a_Neural_Network_Based_MPPT_Algorithm_on_a_Low_Cost_Microcontroller.pdf"

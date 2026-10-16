@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /portfolio/2026-pv-dataset
 excerpt: "A 4-year, 1.7M+ sample dataset synchronizing PV electrical and environmental measurements from an outdoor solar lab in Lima, Peru.<br/><img src='/images/portfolio/pv-dataset/pv_lab_a.jpg' width='400'>"
 date: 2026-02-01
-# organizer: "TODO: organizer name"
+organizer: "IEEE Power and Energy Society — Good Datasets for AI Model Training in the Power and Energy Domain"
 header:
   teaser: "/images/portfolio/pv-dataset/pv_lab_a.jpg"
 tags:

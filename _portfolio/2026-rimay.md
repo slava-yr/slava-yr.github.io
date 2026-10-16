@@ -3,7 +3,7 @@ title: "Rimay"
 collection: portfolio
 permalink: /portfolio/2026-rimay
 excerpt: "A no-code AI customer-service agent for food SMEs — upload your menu, set rules in plain language, and start answering customers on web and Telegram."
-date: 2026-01-02
+date: 2026-08
 tags:
   - AI
   - Full-Stack
@@ -17,7 +17,9 @@ tags:
 Rimay lets any small business stand up its own AI agent without writing a line of code: the owner uploads a photo of their menu (the AI extracts products and prices automatically), defines business rules in plain Spanish, and the agent starts handling conversations over a web widget and Telegram. It answers strictly from the real catalog — no hallucinated products or prices — and escalates to a human operator within seconds when a case falls outside the rules.
 
 ## Highlights
+- Rimay was selected among the **30 finalist projects** of the **Hackathon Kiro**, organized by **Código Facilito** and **Kiro**, with the backing of **AWS**.
 
+![Hackathon Kiro Top 30](/images/hackathon-kiro-top-30.png)
 - **No-code setup:** menu photo → automatic product/price extraction; business rules written in natural language.
 - **Grounded responses:** catalog replies are forced into strict JSON schemas validated against the database, so the AI never invents items or prices.
 - **Multi-channel:** embeddable web widget plus a native Telegram bot.

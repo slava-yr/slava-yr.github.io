@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2026-10-01-iecon-feature-selection-mppt
 excerpt: "Data-driven feature selection methodology to improve MPPT performance in solar PV systems."
-date: 2026-10-01
+date: 2026-10
 venue: "IECON 2026 — IEEE Industrial Electronics Conference"
 venueurl: "https://www.iecon2026.org"
 paperurl: "/files/IECON_Feature_Selection_for_Data_Driven_Solar_Photovoltaic_Maximum_Power_Point_Tracking.pdf"
