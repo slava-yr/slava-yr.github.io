@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2026-09-01-medicon-transfer-learning-dermatology
 excerpt: "Transfer learning approach for pigmented lesion classification addressing data scarcity in Latin American clinical settings."
-date: 2026-09
+date: 2026-09-01
 venue: "MEDICON 2026 — Mediterranean Conference on Medical and Biological Engineering and Computing"
 venueurl: "https://medicon2026.unisi.it"
 paperurl: "https://doi.org/10.1007/978-3-032-39674-7_27"

@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2026-11-01-waimlap-solar-forecasting-galapagos
 excerpt: "XGBoost model for short-term solar irradiance forecasting tailored to the unique conditions of the Galapagos Islands."
-date: 2026-11
+date: 2026-11-01
 venue: "WAIMLAP 2026 — Workshop on Artificial Intelligence and Machine Learning Applications"
 venueurl: "https://waimlap.org"
 paperurl: "/files/WAIMLAP_Solar_Forecasting_Galapagos.pdf"
