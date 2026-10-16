@@ -9,8 +9,7 @@
 
 main:
   - title: "CV"
-    #url: /cv/
-    url: /files/SalvadorYabar_OnePageResume.pdf
+    url: /cv/
 
   - title: "Publications"
     url: /publications/

@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Salvador Yabar Reaño"
   pronouns         : # example: "she/her"  
-  bio              : "BSc. Electronics Engineering - Applied AI for Renewable Energy"
+  bio              : "BSc. Electronics Engineering — Machine Learning for Renewable Energy"
   location         : "Lima, Peru"
-  employer         : "Pontificia Universidad Catolica del Peru"
+  employer         : "Pontificia Universidad Católica del Perú"
   uri              : # URL
   email            : "syabar@pucp.edu.pe" 
 
@@ -42,7 +42,6 @@ author:
 
   # Social media
   linkedin         : "salvador-yabar"
-  youtube          : "slavayab181"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
