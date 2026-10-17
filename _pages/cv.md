@@ -96,7 +96,7 @@ author_profile: true
 
 <div class="cv-entry">
   <div class="cv-entry-left">
-    <span class="cv-role">IB Diploma Programme</span> &nbsp;·&nbsp; <span class="cv-org">Bachillerato Internacional</span>
+    <span class="cv-role">IB Diploma Programme</span> &nbsp;·&nbsp; 
   </div>
   <span class="cv-entry-date">2018 – 2019</span>
 </div>
