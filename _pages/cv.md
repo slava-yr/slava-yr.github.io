@@ -34,69 +34,86 @@ Download a print-ready version of this CV:
 <details open>
 <summary>Education</summary>
 
-**B.Sc. Electronics Engineering**  
-Pontificia Universidad Católica del Perú (PUCP) — Lima, Peru  
-Graduated: 2026
+<p><strong>B.Sc. Electronics Engineering</strong><br>
+Pontificia Universidad Católica del Perú (PUCP) — Lima, Peru<br>
+Graduated: 2026</p>
 
-Thesis: *Data-Driven Maximum Power Point Tracking for Photovoltaic Systems Using Machine Learning and Embedded Deployment*
+<p>Thesis: <em>Data-Driven Maximum Power Point Tracking for Photovoltaic Systems Using Machine Learning and Embedded Deployment</em></p>
 
-Relevant coursework: Digital Signal Processing, Control Systems, Embedded Systems, Machine Learning, Power Electronics.
+<p>Relevant coursework: Digital Signal Processing, Control Systems, Embedded Systems, Machine Learning, Power Electronics.</p>
 
 </details>
 
 <details open>
 <summary>Research Interests</summary>
 
-- Data-driven methods for photovoltaic systems (MPPT, feature selection, forecasting)
-- Solar irradiance forecasting under variable climate conditions
-- Embedded AI and TinyML deployment on low-cost microcontrollers
-- Machine learning for renewable energy systems
+<ul>
+  <li>Data-driven methods for photovoltaic systems (MPPT, feature selection, forecasting)</li>
+  <li>Solar irradiance forecasting under variable climate conditions</li>
+  <li>Embedded AI and TinyML deployment on low-cost microcontrollers</li>
+  <li>Machine learning for renewable energy systems</li>
+</ul>
 
 </details>
 
 <details open>
 <summary>Publications</summary>
 
-{% assign sorted_pubs = site.publications | sort: "date" %}
+<ul>
+{% assign sorted_pubs = site.publications | sort: "date" | reverse %}
 {% for pub in sorted_pubs %}
-- [{{ pub.title }}]({{ pub.permalink }}) — {{ pub.venue }}, {{ pub.date | date: "%Y" }}
+  <li><a href="{{ pub.url }}">{{ pub.title }}</a> — {{ pub.venue }}, {{ pub.date | date: "%Y" }}</li>
 {% endfor %}
+</ul>
 
 </details>
 
 <details open>
 <summary>Skills</summary>
 
-**Programming & Scientific Computing**
-- Python (NumPy, Pandas, Scikit-learn, XGBoost, Matplotlib)
-- MATLAB / Simulink
+<p><strong>Programming &amp; Scientific Computing</strong></p>
+<ul>
+  <li>Python (NumPy, Pandas, Scikit-learn, XGBoost, Matplotlib)</li>
+  <li>MATLAB / Simulink</li>
+</ul>
 
-**Machine Learning & AI**
-- TensorFlow / Keras
-- TinyML (model quantization, embedded inference)
-- Scikit-learn, XGBoost
+<p><strong>Machine Learning &amp; AI</strong></p>
+<ul>
+  <li>TensorFlow / Keras</li>
+  <li>TinyML (model quantization, embedded inference)</li>
+  <li>Scikit-learn, XGBoost</li>
+</ul>
 
-**Embedded Systems**
-- ESP32 (Arduino / ESP-IDF)
-- Hardware-in-the-Loop (HIL) testing
-- C / C++ for microcontrollers
+<p><strong>Embedded Systems</strong></p>
+<ul>
+  <li>ESP32 (Arduino / ESP-IDF)</li>
+  <li>Hardware-in-the-Loop (HIL) testing</li>
+  <li>C / C++ for microcontrollers</li>
+</ul>
 
 </details>
 
 <details open>
-<summary>Awards & Competitions</summary>
+<summary>Awards &amp; Competitions</summary>
 
-- **2nd place** — SALA 2026 Hackathon, GalapagOS project (2026)
-- **Top 30** — Kiro Hackathon, Rimay project (2025)
-- **2nd place** — Reto de Innovación Ambiental, CIDE-PUCP (2025)
+<ul>
+  <li><strong>2nd place</strong> — SALA 2026 Hackathon, GalapagOS project (2026)</li>
+  <li><strong>Top 30</strong> — Kiro Hackathon, Rimay project (2025)</li>
+  <li><strong>2nd place</strong> — Reto de Innovación Ambiental, CIDE-PUCP (2025)</li>
+</ul>
 
 </details>
 
 <details open>
 <summary>Languages</summary>
 
-- **Spanish** — Native
-- **English** — Professional working proficiency
-  - TOEFL certification (October 10, 2026): Reading 6.0 · Listening 6.0 · Writing 5.5 · Speaking 5.0
+<ul>
+  <li><strong>Spanish</strong> — Native</li>
+  <li><strong>English</strong> — Professional working proficiency
+    <ul>
+      <li>TOEFL certification (October 10, 2026): Reading 6.0 · Listening 6.0 · Writing 5.5 · Speaking 5.0</li>
+    </ul>
+  </li>
+</ul>
 
 </details>
