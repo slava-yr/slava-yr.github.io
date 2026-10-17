@@ -3,7 +3,7 @@ title: "Rimay"
 collection: portfolio
 permalink: /portfolio/2026-rimay
 excerpt: "A no-code AI customer-service agent for food SMEs — upload your menu, set rules in plain language, and start answering customers on web and Telegram."
-date: 2026-08
+date: 2026-08-01
 tags:
   - AI
   - Full-Stack
