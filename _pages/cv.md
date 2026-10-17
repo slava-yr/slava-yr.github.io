@@ -8,13 +8,14 @@ author_profile: true
 <style>
 .cv-section {
   margin-bottom: 2em;
+  color: var(--global-text-color);
 }
 .cv-section h2 {
   font-size: 1.1em;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  color: #888;
-  border-bottom: 1px solid #ddd;
+  color: var(--global-text-color-light);
+  border-bottom: 1px solid var(--global-border-color);
   padding-bottom: 0.3em;
   margin-bottom: 1em;
 }
@@ -29,17 +30,17 @@ author_profile: true
 .cv-entry-left { flex: 1; min-width: 0; }
 .cv-entry-date {
   font-size: 0.85em;
-  color: #888;
+  color: var(--global-text-color-light);
   white-space: nowrap;
   margin-left: 1em;
 }
 .cv-role { font-weight: 700; }
-.cv-org { font-style: italic; color: #555; }
+.cv-org { font-style: italic; color: var(--global-text-color-light); }
 .cv-bullets {
   margin: 0.3em 0 0.9em 0;
   padding-left: 1.4em;
   font-size: 0.93em;
-  color: #444;
+  color: var(--global-text-color-light);
 }
 .cv-bullets li { margin-bottom: 0.15em; }
 .cv-tags {
@@ -49,11 +50,12 @@ author_profile: true
   margin-top: 0.5em;
 }
 .cv-tag {
-  background: #f0f0f0;
+  background: var(--global-code-background-color);
+  border: 1px solid var(--global-border-color);
   border-radius: 3px;
   padding: 0.15em 0.6em;
   font-size: 0.82em;
-  color: #444;
+  color: var(--global-text-color);
 }
 .cv-award-row {
   display: flex;
@@ -62,7 +64,7 @@ author_profile: true
   margin-bottom: 0.3em;
   flex-wrap: wrap;
 }
-.cv-award-row span { color: #888; font-size: 0.9em; }
+.cv-award-row span { color: var(--global-text-color-light); font-size: 0.9em; }
 </style>
 
 <a href="/files/SalvadorYabar_OnePageResume.pdf" class="btn btn--primary">Download PDF Resume</a>
@@ -236,7 +238,7 @@ author_profile: true
 
 <div class="cv-award-row"><div>🥈 <strong>2nd place</strong> — SALA 2026 Hackathon (GalapagOS)</div><span>2026</span></div>
 <div class="cv-award-row"><div>🏆 <strong>Top 30</strong> — Kiro Hackathon (Rimay)</div><span>2025</span></div>
-<div class="cv-award-row"><div>🥈 <strong>2nd place</strong> — Reto de Innovación Ambiental, CIDE-PUCP</div><span>2025</span></div>
+<div class="cv-award-row"><div>🥈 <strong>2nd place</strong> — Environmental Innovation Challenge, CIDE-PUCP</div><span>2025</span></div>
 <div class="cv-award-row"><div>🛰️ <strong>Finalist</strong> — National Small Satellite Competition</div><span>2024</span></div>
 <div class="cv-award-row"><div>✈️ <strong>DARI Exchange Scholarship</strong> — University of Calgary</div><span>2023</span></div>
 </div>
