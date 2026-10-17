@@ -34,7 +34,7 @@ Download a print-ready version of this CV:
 <details open>
 <summary>Education</summary>
 
-<p><strong>B.Sc. Electronics Engineering</strong> (Top 10%)<br>
+<p><strong>B.Sc. Electronics Engineering</strong> (Top 5%)<br>
 Pontificia Universidad Católica del Perú (PUCP) — Lima, Peru<br>
 Mar 2020 – Dec 2025</p>
 <p>Thesis: <em>Neural Network-Based MPPT Optimization Algorithm for Photovoltaic Generation Systems</em></p>
@@ -43,6 +43,10 @@ Mar 2020 – Dec 2025</p>
 University of Calgary — Calgary, Canada<br>
 Aug 2023 – Dec 2023</p>
 <p>Coursework: Applied AI, Photovoltaic Systems Engineering, Embedded Systems Interfacing, Biomedical Design.</p>
+
+<p><strong>IB Diploma Programme</strong><br>
+Bachillerato Internacional — Lima, Peru<br>
+Mar 2018 – Dec 2019</p>
 
 </details>
 
@@ -69,7 +73,7 @@ Mar 2026 – Jul 2026</p>
   <li>Coordinated a 5-month research sprint to formalize the forecasting architecture into a paper submitted to WAIMLAP.</li>
 </ul>
 
-<p><strong>Data Analyst &amp; Research Lead</strong><br>
+<p><strong>Data Analyst &amp; Researcher</strong><br>
 Material Science and Renewable Energy Research Group (MatEr) — Lima, Peru<br>
 Dec 2025 – Jun 2026</p>
 <ul>
@@ -89,6 +93,10 @@ May 2025 – Mar 2026</p>
 <details open>
 <summary>Professional Experience</summary>
 
+<p><strong>Consultant</strong><br>
+Management Solutions — Lima, Peru<br>
+Aug 2026 – Present</p>
+
 <p><strong>IT Infrastructure Support Intern</strong><br>
 Pontificia Universidad Católica del Perú (PUCP) — Lima, Peru<br>
 Apr 2026 – Jul 2026</p>
@@ -102,6 +110,14 @@ Sep 2024 – Sep 2025</p>
 <ul>
   <li>Executed operational diagnostics on Data Center Facilities (UPS and Precision Cooling systems).</li>
   <li>Trained 10 strategic partners through official sessions, enabling status upgrades to authorized Gold channels.</li>
+</ul>
+
+<p><strong>Undergraduate Teaching Assistant — Fundamentals of Physics</strong><br>
+Pontificia Universidad Católica del Perú (PUCP) — Lima, Peru<br>
+Mar 2024 – Jul 2024</p>
+<ul>
+  <li>Facilitated classroom instruction for first-semester students, guiding them through conceptual physics topics.</li>
+  <li>Supported grading of assignments and exams, maintaining academic standards of the program.</li>
 </ul>
 
 </details>
@@ -147,6 +163,20 @@ Jan 2024 – Dec 2024</p>
 <ul>
   <li>Huawei Certified Specialist Expert — Data Center Facility</li>
   <li>Python/Pandas Data Engineering — Duke University</li>
+  <li>Solar Energy and Electrical System Design</li>
+</ul>
+
+</details>
+
+<details open>
+<summary>Awards &amp; Recognition</summary>
+
+<ul>
+  <li><strong>2nd place</strong> — SALA 2026 Hackathon, GalapagOS project (2026)</li>
+  <li><strong>Top 30</strong> — Kiro Hackathon, Rimay project (2025)</li>
+  <li><strong>2nd place</strong> — Reto de Innovación Ambiental, CIDE-PUCP (2025)</li>
+  <li><strong>Finalist</strong> — National Small Satellite Competition</li>
+  <li><strong>DARI Exchange Scholarship</strong> — University of Calgary (2023)</li>
 </ul>
 
 </details>
@@ -158,7 +188,6 @@ Jan 2024 – Dec 2024</p>
   <li><strong>Spanish</strong> — Native</li>
   <li><strong>English</strong> — Advanced (TOEFL, October 2026)</li>
   <li><strong>French</strong> — Basic</li>
-  <li><strong>Japanese</strong> — Basic</li>
 </ul>
 
 </details>
